@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding:25px;
+}
+
+header{
+    height: 300px;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    padding: 10px;
+}
+
+.purpbox{
+    float:left;
+    background: purple;
+    height: 210px;
+    width: 75px;
+    margin-top: 65px;
+}
+
+.greenboi{
+    float:left;
+    background: green;
+    height: 275px;
+    width: 700px;
+    margin-left: 50px;
+}
+
+.circle{
+    float: left;
+    background: rgb(74, 198, 219);
+    height: 275px;
+    width: 275px;
+    border-radius:250px;
+    margin-left: 100px;
+}
+
+.dotbox{
+    margin-top:25px;
+    height: 350px;
+    width: 1870px;
+    border-style:dotted;
+    border-width: medium;
+    padding: 50px;
+}
+
+.shadowbox{
+    background-color: rgb(235, 234, 209);
+    height: 250px;
+    width: 1770px;
+    box-shadow: 5px 5px black;
+}
+
+.wordbox{
+    box-shadow: 2px 2px rgb(202,202,202);
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(202, 202, 202);
+    margin-top: 50px;
+    margin-left: 600px;
+    height: 400px;
+    width: 800px;
+    padding: 75px 300px;
+    font-size: 60px;
+    letter-spacing: 10px;
+}

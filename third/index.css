@@ -1,0 +1,47 @@
+body{
+    background: yellow;
+}
+
+header{
+    height: 100px;
+    background-color: rgb(151, 151, 151);
+    padding: 10px 30px;
+}
+
+.bicon{
+    background: rgb(103, 173, 238);
+    height: 80px;
+    width: 80px;
+}
+
+.textbox{
+    background: white;
+    height: 400px;
+    width: 100%;
+    padding: 75px;
+    font-size: 50px;
+}
+
+.bline{
+    background: rgb(50, 136, 218);
+    height: 150px;
+    width: 100%;
+}
+
+.turqline{
+    background: rgb(71, 243, 255);
+    height: 150px;
+    width: 100%;
+}
+
+.gline{
+    background: rgb(150, 184, 107);
+    height: 150px;
+    width: 100%;
+}
+
+.yline{
+    background: yellow;
+    height: 150px;
+    width: 100%;
+}

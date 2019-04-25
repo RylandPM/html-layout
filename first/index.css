@@ -1,0 +1,23 @@
+body{
+    background:rgb(141, 140, 140)
+}
+
+header{
+    background: rgb(99, 99, 99);
+    height: 100px;
+}
+
+section{
+    height: 800px;
+    width: 1500px;
+    padding-top: 100px;
+    margin: 0 auto 50px;
+    background: rgb(255, 255, 255);
+}
+
+.box1{
+    background: black;
+    width: 1500px;
+    height: 100px;
+    margin-top: 669px;
+}
